@@ -101,7 +101,7 @@ With Google API key:
 |-- streamlit_app.py            # Main streamlit application
 |-- us_hospital_locations.csv   # Hospital database
 |-- requirements.txt            # Python dependencies
-
+```
 
 ## Disclaimers
 
